@@ -47,3 +47,9 @@ New-MgUser -DisplayName "Cody Godinez" `
 - UsageLocation: This is mandatory for assigning licenses later. Without this attribute, Entra ID cannot legally assign service licenses (like M365) due to regional compliance laws.
 - AccountEnabled: By setting this to $true during creation, the user is productive from Minute 1 of their first day.
 
+To conclude the lab, I performed a directory audit to verify the successful creation of all three identities.
+
+PowerShell script: Get-MgUser
+
+Result: The output confirmed that Edmund, Miranda, and Cody were all successfully provisioned as Member users, each correctly associated with their respective DisplayName, UserPrincipalName, and Department.
+
