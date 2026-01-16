@@ -53,3 +53,26 @@ PowerShell script: Get-MgUser
 
 Result: The output confirmed that Edmund, Miranda, and Cody were all successfully provisioned as Member users, each correctly associated with their respective DisplayName, UserPrincipalName, and Department.
 
+# On the next lab, it focuses on Assigning Administrative roles in Entra ID
+
+Managing privileged access within an organization by assigning specific administrative roles to users in Microsoft Entra ID.
+
+Walkthrough: The primary objective was to ensure that specific users were granted the appropriate level of access required for their job functions, following the principle of least privilege where applicable.
+
+1. The process began in the Microsoft Entra admin center. To manage permissions, I navigated to the Roles & admins section in the sidebar. This area serves as the central hub for viewing all built-in and custom directory roles.
+2. The first requirement was to appoint a Global administrator to manage the entire tenant.
+
+- I utilized the search bar to locate the Global administrator role.
+- After selecting the role name, I entered the assignment pane and selected + Add assignments.
+- I identified Allan Deyoung from the member list and successfully added him to the role.
+
+3. The next task involved the User administrator role, which is essential for handling password resets and managing user accounts.
+
+- While the initial scenario table listed Joni Siraman for this role, Joni Siraman did not appear in the system, so I assigned the task to Edmund Reeve instead. In a real‑world scenario, verifying the correct identity is essential.
+- I searched for the role, selected + Add assignments, and assigned it to Edmund Reeve to fulfill the technical requirement.
+
+4. For users who only need to manage password resets without full user management capabilities, I utilized the Helpdesk administrator role.
+
+- Following the same workflow, I searched for this role and added Miranda Snider
+- The assignment was finalized by clicking Add.
+
