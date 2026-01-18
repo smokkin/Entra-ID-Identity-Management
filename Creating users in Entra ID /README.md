@@ -1,5 +1,5 @@
-# Entra-ID-Identity-Management
-# Managing Identities in Entra ID
+# Creating Users in Entra ID
+
 An implementation of identity lifecycle management within Microsoft Entra ID, demonstrating a strategic shift from manual provisioning to automated PowerShell workflows via the Microsoft Graph SDK.
 
 Objective: This project demonstrates the management of user identities within Microsoft Entra ID using both the Administrative Portal and the Microsoft Graph PowerShell SDK. The goal was to transition from manual entry to automated, scalable onboarding processes.
