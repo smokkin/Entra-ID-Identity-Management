@@ -130,6 +130,16 @@ Walkthrough: The primary objective was to ensure that specific users were grante
 <img width="1434" height="784" alt="image" src="https://github.com/user-attachments/assets/9bf38ecb-ed75-4854-a1a2-9ce224cfddbb" />
 <img width="1424" height="784" alt="image" src="https://github.com/user-attachments/assets/4d54c68c-40db-4cc3-93e6-12b5480dc3f7" />
 <img width="1428" height="782" alt="image" src="https://github.com/user-attachments/assets/e9f26f3b-bd32-4a5f-b591-240372346d94" />
+<img width="1422" height="783" alt="image" src="https://github.com/user-attachments/assets/793189ee-9c19-4ecf-956c-490ae8ef1c86" />
+<img width="1429" height="784" alt="image" src="https://github.com/user-attachments/assets/1fd1ed21-2b72-41cc-8918-b3284a98e3c1" />
+<img width="1428" height="785" alt="image" src="https://github.com/user-attachments/assets/f645a2e6-12be-4b0b-a5b1-6ecf43831ea1" />
+<img width="1428" height="787" alt="image" src="https://github.com/user-attachments/assets/bc4f86d7-8ff5-45ad-80b9-4a7cc8ef8547" />
+<img width="1423" height="783" alt="image" src="https://github.com/user-attachments/assets/7a65456f-5a4a-4ea3-84b7-3d848e926789" />
+<img width="1430" height="779" alt="image" src="https://github.com/user-attachments/assets/eefb0826-90e0-4166-a8cd-1e1ff441cf4b" />
+<img width="1426" height="782" alt="image" src="https://github.com/user-attachments/assets/9ddf21a0-e714-45c4-b7f3-3d6deeb05ecb" />
+<img width="1427" height="785" alt="image" src="https://github.com/user-attachments/assets/9f82b861-ef03-4aba-b888-d306251febba" />
+<img width="1426" height="782" alt="image" src="https://github.com/user-attachments/assets/495c0a9f-b3c5-403e-ba4e-737a3ad88940" />
+<img width="1428" height="783" alt="image" src="https://github.com/user-attachments/assets/f38f98fa-e784-4a1b-b08b-e6eaf503af0e" />
 
 
 
