@@ -71,7 +71,36 @@ Walkthrough: The primary objective was to ensure that specific users were grante
 - While the initial scenario table listed Joni Siraman for this role, Joni Siraman did not appear in the system, so I assigned the task to Edmund Reeve instead. In a real‑world scenario, verifying the correct identity is essential.
 - I searched for the role, selected + Add assignments, and assigned it to Edmund Reeve to fulfill the technical requirement.
 
-4. For users who only need to manage password resets without full user management capabilities, I utilized the Helpdesk administrator role.
+4. For users who only need to manage password resets without full user management capabilities, I utilized the Helpdesk administrator role.\
+
+<img width="1426" height="785" alt="image" src="https://github.com/user-attachments/assets/9cd669cc-e3d6-4532-b88c-225e700b754e" />
+<img width="1428" height="783" alt="image" src="https://github.com/user-attachments/assets/d016b447-e828-4849-bf01-8937f0d57569" />
+<img width="1427" height="784" alt="image" src="https://github.com/user-attachments/assets/a8d6f3da-c89c-4cf0-8e9b-c2b54dc4e1ea" />
+<img width="1429" height="786" alt="image" src="https://github.com/user-attachments/assets/55e68a41-fdc9-409b-bd69-cd0d60284a14" />
+
+<img width="1424" height="785" alt="image" src="https://github.com/user-attachments/assets/f69a4864-00f7-4431-8427-92dc45e14949" />
+<img width="1424" height="783" alt="image" src="https://github.com/user-attachments/assets/6016dd01-d335-451e-bc14-e1fe36ae2f0f" />
+<img width="1429" height="786" alt="image" src="https://github.com/user-attachments/assets/5b54da2d-eee1-4404-aed7-87d8f9bf8abf" />
+<img width="1430" height="783" alt="image" src="https://github.com/user-attachments/assets/31aaf816-e88f-43c5-95b1-fef885740355" />
+
+<img width="986" height="513" alt="image" src="https://github.com/user-attachments/assets/42194d42-17b4-4ec2-a89e-31a645a4babf" />
+<img width="982" height="515" alt="image" src="https://github.com/user-attachments/assets/2f0d99f9-7369-455c-9f2b-61673fa5cd1f" />
+<img width="1021" height="644" alt="image" src="https://github.com/user-attachments/assets/285f9f11-7677-4789-a5bc-52d63069963d" />
+<img width="986" height="513" alt="image" src="https://github.com/user-attachments/assets/71e06c19-3a85-4ae7-996b-dc83c82d94f4" />
+<img width="984" height="517" alt="image" src="https://github.com/user-attachments/assets/9a92c1ee-7463-43bf-80fe-67b592178d31" />
+<img width="985" height="514" alt="image" src="https://github.com/user-attachments/assets/e14e3e8d-f3bc-4b32-a547-9d8e4ddce291" />
+
+
+
+
+
+
+
+
+
+
+
+
 
 - Following the same workflow, I searched for this role and added Miranda Snider
 - The assignment was finalized by clicking Add.
